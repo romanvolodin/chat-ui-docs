@@ -76,7 +76,7 @@
 
 ## Текущее состояние чата для Киноинтерфейсов
 
-Репозиторий: https://github.com/romanvolodin/chat-app
+Репозиторий: <https://github.com/romanvolodin/chat-app>
 
 По коду репозитория:
 
